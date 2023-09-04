@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+#holder {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+	
+}
+
+/* Additional styles for items if needed */
+.item {
+    /* Add styles for items here */
+	font-weight:bolder;
+	font-size:70px;
+}
+.item-1{
+	
+	width:150px;
+	height:150px;
+	background-color:green;
+}
+.item-2{
+	
+		width:150px;
+	height:150px;
+	background-color:red;
+}
+.item-3{
+	
+		width:150px;
+	height:150px;
+	background-color:blue;
+}
