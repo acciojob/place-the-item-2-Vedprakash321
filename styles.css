@@ -8,26 +8,21 @@
 }
 
 /* Additional styles for items if needed */
-.item {
-    /* Add styles for items here */
-	font-weight:bolder;
+.item { 
 	font-size:70px;
 }
 .item-1{
-	
 	width:150px;
 	height:150px;
 	background-color:green;
 }
 .item-2{
-	
-		width:150px;
+	width:150px;
 	height:150px;
 	background-color:red;
 }
 .item-3{
-	
-		width:150px;
+	width:150px;
 	height:150px;
 	background-color:blue;
 }
